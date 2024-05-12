@@ -4,9 +4,11 @@ Este é um aplicativo Pomodoro simples desenvolvido em Python usando Tkinter par
 
 ## Funcionalidades
 * Timer Pomodoro ajustável (trabalho e pausa)
-* Notificações visuais e sonoras
 * Contagem regressiva com indicação de tempo restante
 * Interface amigável e intuitiva
+  
+![PomodoroAPP](https://github.com/mateussoliv/PomodoroAPP/assets/91861565/cda50d95-9dba-4758-9fb0-4877512aecb5)
+
 ## Como usar
 * Clone este repositório:
 git clone https://github.com/seu-usuario/pomodoro-app.git
